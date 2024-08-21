@@ -1,0 +1,14 @@
+com\mycompany\proyectoaerofeliz\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\proyectoaerofeliz\igu\Principal$4.class
+com\mycompany\proyectoaerofeliz\igu\Principal$3.class
+com\mycompany\proyectoaerofeliz\logica\Controladora.class
+com\mycompany\proyectoaerofeliz\igu\Principal.class
+com\mycompany\proyectoaerofeliz\persistencia\ConroladoraPersistencia.class
+com\mycompany\proyectoaerofeliz\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\proyectoaerofeliz\igu\Principal$1.class
+com\mycompany\proyectoaerofeliz\persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\proyectoaerofeliz\ProyectoAerofeliz.class
+com\mycompany\proyectoaerofeliz\igu\Principal$2.class
+com\mycompany\proyectoaerofeliz\logica\PeticionCliente.class
+com\mycompany\proyectoaerofeliz\logica\PeticionCliente_.class
+com\mycompany\proyectoaerofeliz\persistencia\PeticionClienteJpaController.class
